@@ -22,7 +22,7 @@ The release of Lecarde Chronicles (1) got permited by Konami, the game and its a
 
 #### Access the Releases ####
 
-The latest stable releases can be accessed at >  http://github.com/Aceearly1993/lecarde-1/releases
+The latest stable releases can be accessed at >  http://github.com/AceChronicles93/lecarde-chronicles-1/releases
 
 
 ## Usage
