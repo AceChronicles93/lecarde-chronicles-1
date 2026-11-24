@@ -139,6 +139,12 @@ https://discord.gg/uAVxVqmZXx
 
 ### Update History ###
 
+ #### [0.7.2] - 2026/11/24 #### 
+
+`CHANGED` - Hurt box: To make the game more fair, Now you can slide through the lower bullet if Skeleton gunman decided to crouch and fire a bullet, like in the second game.    (Aceearly1993)  
+`CHANGED` - Hurt box: Reduced hurtbox size when performing whirlwind in order to make projectile blocking less likely to fail if projectiles or rushing enemies come underneath you.  (Aceearly1993)  
+
+
  #### [0.7.1] - 2026/10/27 #### 
 
 `ADDED` - Missing conditions on [boss rush boss fight ended] events so that a boss rush boss fight scene will always ended with controls restored, 
